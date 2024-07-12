@@ -48,7 +48,7 @@ export const info = {
         },
         {
             emoji: '🌎',
-            text: 'based in the Malaysia'
+            text: 'based in Malaysia'
         },
         {
             emoji: "💼",
