@@ -1,6 +1,4 @@
-# React Portfolio
-
-## a portfolio for developers
+# My React Portfolio
 
 [View Live Template](https://naimnazri.com/)
 
