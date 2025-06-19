@@ -41,3 +41,7 @@ docker run -p 8080:80 portfolio-2024
 ```
 
 The repository also contains `.github/workflows/deploy.yml` which shows how this project can be deployed automatically to a VPS using GitHub Actions and Docker.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
