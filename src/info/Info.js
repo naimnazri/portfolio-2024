@@ -128,7 +128,7 @@ export const info = {
     // This is where your portfolio projects will be detailed
     {
       title: "Digital Business Card",
-      live: "https://digitalbusinesscard.naimnazri.com", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
+      live: "https://digital-business-card.namix.space", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
       source: "https://github.com/naimnazri/digital_business_card.git", // this should be a link to the **repository** of the project, where the code is hosted.
       image: digitalcard,
     },
