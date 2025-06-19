@@ -5,7 +5,7 @@ This project is a simple React portfolio based on [Payton Pierce's template](htt
 ## Prerequisites
 
 - **Node.js** v20 or newer
-- **Yarn** or **NPM**
+- **NPM** (Node Package Manager)
 
 ## Getting Started
 
@@ -13,14 +13,10 @@ This project is a simple React portfolio based on [Payton Pierce's template](htt
    ```bash
    # using npm
    npm install
-   # or using yarn
-   yarn
    ```
 2. Start the development server:
    ```bash
    npm start
-   # or
-   yarn start
    ```
 
 The app will be available at `http://localhost:3000`.
