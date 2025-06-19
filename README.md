@@ -6,6 +6,7 @@ This project is a simple React portfolio based on [Payton Pierce's template](htt
 
 - **Node.js** v20 or newer
 - **NPM** (Node Package Manager)
+- A `.nvmrc` file is included to set Node 20 when using `nvm`.
 
 ## Getting Started
 
